@@ -1,0 +1,19 @@
+{
+  "name": "yaorm",
+  "version": "1.0.0",
+  "description": "Yet Another ORM, a PostgreSQL mapper which guarantees data is never lost",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mika0x56/yaorm.git"
+  },
+  "author": "Mikael Wikman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mika0x56/yaorm/issues"
+  },
+  "homepage": "https://github.com/mika0x56/yaorm#readme"
+}
